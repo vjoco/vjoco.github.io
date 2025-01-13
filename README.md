@@ -1,1 +1,1 @@
-# vjoco.github.io
+# for teapots
